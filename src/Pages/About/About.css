@@ -1,0 +1,27 @@
+.about{
+    color: white;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  .aboutcontents{ 
+    margin: 80px 2em 0 2em;
+  }
+  
+  .toptext{
+    font-size: 19px;
+    color: #4CB8BF;
+  }
+  
+  .sectiontitle{
+    margin-top: 10px;
+    font-size: 30px;
+  }
+  
+  .bodypara{
+    margin-top: 10px;
+    font-size: 19px;
+  }

@@ -1,0 +1,147 @@
+.contact{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 102vh;
+    width: 100%;
+  }
+  
+  .inputvalue{
+    background-color: #434D64;
+    border: none;
+    height: 45px;
+    width: 40vw;
+  }
+  
+  .contactcontents{
+    margin-top: 7em;
+    justify-content: center;
+  }
+  
+  .contactmobile{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .section{
+    font-weight: 700;
+    font-size: 17px; 
+    margin-bottom: 10px; 
+  }
+  
+  .message{
+    width: 90vw;
+    height: 40vh;
+  }
+  
+  .formitem{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+  }
+  
+  .buttons{
+    flex-direction: row;
+  }
+  
+  .button{
+    max-width: fit-content; 
+    margin: 10px 10px 0px 0px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 6px 30px;
+    text-decoration: none;
+  }
+    
+  .send:hover{
+    background-color: #4CB8BF;
+    color: #F4EFEF;
+    transition: all 0.3 ease-out;
+    transition: 250ms;
+  }
+  .send{
+    background-color:rgba(76, 184, 191, 0.7);
+    color: rgba(244, 239, 239, 0.7);
+    border: none;
+    margin-right: 20px;
+  }
+  
+  .clear{
+    border: 2px solid #F4EFEF;
+    background-color: #283044;
+    color: #F4EFEF;
+  
+  }
+  
+  .clear:hover{
+    border-color: #4CB8BF;
+    color: #4CB8BF;
+  }
+  
+  input, textarea{
+    color: #F4EFEF;
+    padding: 10px;
+    outline: none;
+  }
+  
+  textarea{
+    resize: none;
+  }
+  
+  .email{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    margin: 15px;
+    margin-top: 20px;
+    justify-content: flex-end;
+  }
+  
+  .icons{
+    width: 20px;
+    height: 20px;
+    color: #283044;
+    align-self: center;
+  }
+  
+  .mailicon{
+    border-radius: 100px;
+    background-color: #F4EFEF;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    margin-right: 15px;
+    justify-content: center;
+  }
+  
+  .mailicon:hover{
+    background-color: #76ebe1;
+  }
+  
+  .emailtext{
+    align-self: center;
+  }
+  
+  
+  @media screen and (max-width: 800px){
+    .contactmobile{
+      flex-direction: column;
+    }
+    .inputvalue{
+      width: 80vw;
+      height: 40px;
+    }
+  
+    .message{
+      height: 30vh;
+    }
+  
+    .contact{
+      height: 113vh;
+    }
+  
+  }

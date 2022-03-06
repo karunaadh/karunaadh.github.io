@@ -1,0 +1,87 @@
+.projects{
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 110vh;
+    width: 100%;
+  }
+  
+  .projectdescription{
+    margin-top: 10px;
+  }
+  
+  .tool{
+    margin-top: 20px;
+  }
+  
+  .projectscontent{ 
+    margin: 8em 2em;
+  }
+  
+  .projectstitle{
+    font-size: 30px;
+    color: #F4EFEF;
+  }
+  
+  .projectitemtitle{
+    color: #4CB8BF;
+    margin-bottom: 10px;
+  }
+  
+  .projectitem, .futureprojects{
+    margin: 20px;
+    text-align: center;
+    background-color: #F4EFEF;
+    border-radius: 10px;
+    padding: 15px;
+    color: #0E1525;
+    min-height: max-content;
+  }
+  
+  .projectimg{
+    width: 100%;
+    border-radius: 10px;
+    height: auto;
+  }
+  
+  .projectgallery{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  @media screen and (max-width: 1100px) {
+    .projectgallery{
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  @media screen and (max-width: 800px) {
+    .projectgallery{
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .projectitem{
+      width: 80%;
+      padding: 2vw;
+    }
+  }
+  
+  @media screen and (max-width: 550px) {
+    .projectgallery{
+      grid-template-columns: repeat(1, 1fr);
+    }
+    .projectitem{
+      width: 80%;
+      padding: 4vw;
+    }
+  
+  }
+  
+  .futureprojects{
+    margin-bottom: 3em;
+  }
+  
+  .FPdes{
+    margin: 20px;
+  }
+  

@@ -28,7 +28,7 @@ export const Projectlist = [
   },
   {
     title: "Portfolio Website",
-    link: "https://github.com/karunaadh/Portfolio",
+    link: "https://github.com/karunaadh/karunaadh.github.io",
     image: Portfolio1,
     hover: Portfolio2,
     description: "Designed and created from scratch. ",

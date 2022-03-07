@@ -46,9 +46,9 @@ class Navigation extends React.Component{
             return <li key = {index} onClick={this.handleclick}><Link to = {menuitem.link} className = {menuitem.classname}>{menuitem.title}</Link></li>
           })}
           <div className = "otherlinks"> 
-          <a href = "https://www.linkedin.com/in/karuna-adhikari-4ba264169/"><FontAwesomeIcon icon = {faLinkedin} className = "brandicon"> </FontAwesomeIcon></a>
+          <a href = "https://www.linkedin.com/in/karuna-adhikari-4ba264169/"  target="_blank"><FontAwesomeIcon icon = {faLinkedin} className = "brandicon"> </FontAwesomeIcon></a>
             
-          <a href = "https://github.com/karunaadh"><FontAwesomeIcon icon = {faGithub} className = "brandicon"> </FontAwesomeIcon>
+          <a href = "https://github.com/karunaadh"  target="_blank"><FontAwesomeIcon icon = {faGithub} className = "brandicon"> </FontAwesomeIcon>
           </a>
           </div> 
 

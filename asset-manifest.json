@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.711590d3.css",
-    "main.js": "/static/js/main.e8abeaab.js",
+    "main.js": "/static/js/main.a147dbff.js",
     "static/media/Smartbot1.png": "/static/media/Smartbot1.26ae1dcd085f106c3b9d.png",
     "static/media/Alarmsys1.png": "/static/media/Alarmsys1.228a3533decd0164ff92.png",
     "static/media/Smartbot2.jpeg": "/static/media/Smartbot2.b11caf04bfe70c7e2a18.jpeg",
@@ -14,15 +14,17 @@
     "static/media/Docconnect1.jpeg": "/static/media/Docconnect1.55d32b9408ee44acb8c5.jpeg",
     "static/media/NGI2.jpeg": "/static/media/NGI2.2bdf6ac4ece2cdd51a0a.jpeg",
     "static/media/Givengo2.jpeg": "/static/media/Givengo2.7bf4e33b20c2177df7cd.jpeg",
+    "static/media/Meditation1.jpeg": "/static/media/Meditation1.ac55b92ac38146d91a66.jpeg",
+    "static/media/Meditation2.jpeg": "/static/media/Meditation2.ee49b8036ce7ade796fe.jpeg",
     "static/media/Givengo1.jpeg": "/static/media/Givengo1.34a8ced9accc193db656.jpeg",
     "static/media/Pong1.jpeg": "/static/media/Pong1.c7c8ba48290c9b10ccef.jpeg",
     "static/media/Pong2.jpeg": "/static/media/Pong2.0f111e2773926795229a.jpeg",
     "index.html": "/index.html",
     "main.711590d3.css.map": "/static/css/main.711590d3.css.map",
-    "main.e8abeaab.js.map": "/static/js/main.e8abeaab.js.map"
+    "main.a147dbff.js.map": "/static/js/main.a147dbff.js.map"
   },
   "entrypoints": [
     "static/css/main.711590d3.css",
-    "static/js/main.e8abeaab.js"
+    "static/js/main.a147dbff.js"
   ]
 }

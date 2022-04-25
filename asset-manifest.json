@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.711590d3.css",
-    "main.js": "/static/js/main.a147dbff.js",
+    "main.js": "/static/js/main.f24c5e63.js",
     "static/media/Smartbot1.png": "/static/media/Smartbot1.26ae1dcd085f106c3b9d.png",
     "static/media/Alarmsys1.png": "/static/media/Alarmsys1.228a3533decd0164ff92.png",
     "static/media/Smartbot2.jpeg": "/static/media/Smartbot2.b11caf04bfe70c7e2a18.jpeg",
@@ -21,10 +21,10 @@
     "static/media/Pong2.jpeg": "/static/media/Pong2.0f111e2773926795229a.jpeg",
     "index.html": "/index.html",
     "main.711590d3.css.map": "/static/css/main.711590d3.css.map",
-    "main.a147dbff.js.map": "/static/js/main.a147dbff.js.map"
+    "main.f24c5e63.js.map": "/static/js/main.f24c5e63.js.map"
   },
   "entrypoints": [
     "static/css/main.711590d3.css",
-    "static/js/main.a147dbff.js"
+    "static/js/main.f24c5e63.js"
   ]
 }

@@ -13,11 +13,21 @@ import Portfolio1 from "../../Images/Portfolio1.jpeg";
 import Portfolio2 from "../../Images/Portfolio2.jpeg";
 import Smartbot1 from "../../Images/Smartbot1.png";
 import Smartbot2 from "../../Images/Smartbot2.jpeg";
+import Meditation1 from "../../Images/Meditation1.jpeg";
+import Meditation2 from "../../Images/Meditation2.jpeg";
 
 
 
 //array of menu objects
 export const Projectlist = [
+  {
+    title: "Meditation App",
+    link: "https://github.com/karunaadh/Meditation-App",
+    image: Meditation1,
+    hover: Meditation2,
+    description: "Simple breathing app.",
+    tool: "HTML, CSS, JS"   
+  },
   {
     title: "Youth Volunteering Website",
     link: "https://www.figma.com/file/NKDT68I245PyzcSCfaFatZ/NGI-Team-19-Figma?node-id=0%3A1",

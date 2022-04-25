@@ -52,7 +52,6 @@ const Projects = () => {
         <div className = "futureprojects">
         <h3 className = "projectitemtitle">Upcoming...</h3>
           <p className ="FPdes">E-commerce frontend with Alan A.I. assisted Shopping Cart <b>[ReactJS]</b></p>
-          <p className ="FPdes">Meditation app <b>[ReactJS]</b></p>
           <p className ="FPdes">Weather App <b>[Python]</b></p>
         </div>
 

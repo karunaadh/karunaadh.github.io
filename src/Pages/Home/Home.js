@@ -23,7 +23,7 @@ const Home = () => {
         </div>
 
         <div className = "otherlinks"> 
-            <a href = "https://www.linkedin.com/in/karuna-adhikari-4ba264169/"  target="_blank"><FontAwesomeIcon icon = {faLinkedin} className = "brand"> </FontAwesomeIcon></a>
+            <a href = "https://www.linkedin.com/in/karuna-adhikari"  target="_blank"><FontAwesomeIcon icon = {faLinkedin} className = "brand"> </FontAwesomeIcon></a>
               
             <a href = "https://github.com/karunaadh"  target="_blank"><FontAwesomeIcon icon = {faGithub} className = "brand"> </FontAwesomeIcon></a>
         </div> 

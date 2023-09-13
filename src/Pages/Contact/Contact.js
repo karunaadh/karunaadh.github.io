@@ -31,7 +31,7 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    emailjs.sendForm('', '', form.current, '')
+    emailjs.sendForm('service_753geu8', 'template_g66e35s', form.current, '2c9UzjaAmvmYNJFW7')
       .then((result) => {
         console.log(result.text);
       }, (error) => {

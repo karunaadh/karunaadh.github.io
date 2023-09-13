@@ -1,0 +1,65 @@
+.home {
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    padding: 20%;
+    background-color: #2A2F4A;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    row-gap: 50px;
+  }
+  
+  .header-name{
+    color: #FFFFFF;
+    font-size: 52px;
+  }
+  .header-name:hover{
+    color: #76ebe1;
+  }
+  
+  .otherlinks{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .brand{
+    width: 30px;
+    height: 30px;
+    margin: 15px;
+    margin-top: 1em;
+    color: #FFFFFF;
+  }
+  
+  .brand:hover{
+    color: #76ebe1;
+  }
+  
+  .homebody{
+    color: rgba(244, 239, 239, 0.7);
+    width: fit-content;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+  
+  .resumebutton{
+    max-width: fit-content; 
+    padding: 10px 35px;
+    margin-top: 2em;
+    border-radius: 30px;
+    border: none;
+    background-color:rgba(76, 184, 191, 0.7);
+    color: rgba(244, 239, 239, 0.7);
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+    
+  .resumebutton:hover{
+    background-color: #4CB8BF;
+    color: #F4EFEF;
+    transition: all 0.3 ease-out;
+    transition: 250ms;
+  }
+  

@@ -1,0 +1,198 @@
+.navitem{
+    background-color: #0E1525;
+    height: 90px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    font-weight: 700;
+    position: fixed;
+    width: 100%;
+  }
+  
+  .gap{
+    margin-top: 2em;
+  }
+  
+  .otherlinks{
+    display: none;
+  }
+  
+  .navlogo, .mobilelogo{
+    color: #FFFFFF;
+    text-align: center;
+    justify-self: start;
+    padding: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  .mobilelogo{
+    display: none;
+  }
+  
+  .menuicon{
+    color: #F4EFEF;
+  }
+  
+  .navlink{
+    color: rgba(244, 239, 239, 0.7);
+    text-decoration: none;
+    padding: 1rem;
+  }
+  
+  .navlink:hover{
+    color: #F4EFEF;
+    border-bottom: 2px solid #4CB8BF;
+    transition: all 0.3s ease-out;
+  }
+  
+  .navmenu li{
+    display: inline-block;
+    padding: 10px 15px;
+    align-self: center;
+  }
+  
+  .phonenavlink{
+    display: none;
+  }
+  
+  .menuicon{
+    display: none;
+  }
+  
+  .contactbutton{
+    padding: 6px 12px;
+    border-radius: 30px;
+    border: none;
+    background-color:rgba(76, 184, 191, 0.7);
+    color: rgba(244, 239, 239, 0.7);
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0 1rem 0 0;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .contactbutton:hover{
+    background-color: #4CB8BF;
+    color: #F4EFEF;
+    transition: all 0.3 ease-out;
+    transition: 250ms;
+  }
+  
+  .brandicon{
+    width: 30px;
+    height: 30px;
+    margin: 15px;
+    color: #FFFFFF;
+    display: none;
+  }
+  .brandicon:hover{
+    color: #76ebe1;
+    width: 35px;
+    height: 35px;
+  }
+  
+  @media screen and (max-width: 800px) {
+    .navitem{
+      display: flex;
+      flex-direction: column;
+      position: fixed;
+      font-size: 14px;
+    }
+  
+    .navmenu{
+      display:flex;
+      flex-direction: column;
+      height: 112vh;
+      width: 100%;
+      position: absolute; 
+      top: 90px;
+      left: -100%;
+      opacity: 1;
+      transition: all 0.5s ease;
+    }
+  
+    .navmenu.active{
+      background-color: #283044;
+      left: 0;
+      opacity: 1;
+      transition: all 0.5s ease;
+      z-index: 1;
+      position: fixed;
+    }
+  
+    .navlink{
+      padding: 1rem;
+      width: 100%;
+      display: table;
+      border: 2px solid #4cb7bf00;
+    }
+  
+    .navlink:hover{
+      color: #F4EFEF;
+      border-bottom: 2px solid #4CB8BF;
+      transition: all 0.5s ease;
+    }
+  
+    .navlogo{
+      display: none;
+    }
+    
+    .alignleft{
+      display: flex;
+      width: 100%;
+      padding-right: 20px;
+      margin-top: 30px;
+      flex-direction: row;
+      justify-content: space-between;
+      align-content: center;
+    }
+  
+    .mobilelogo{
+      display: block;
+      cursor: pointer;
+    }
+  
+    .menuicon{
+      display: block;
+      cursor: pointer;
+    }
+  
+    .phonenavlink{
+      display: block;
+      padding: 6px 12px;
+      margin-top: 2rem;
+      border-radius: 30px;
+      border: none;
+      width: 80px;
+      background-color:rgba(76, 184, 191, 0.7);
+      color: rgba(244, 239, 239, 0.7);
+      text-decoration: none;
+    }
+  
+    .phonenavlink:hover{
+      background-color:rgb(76, 184, 191);
+      color: rgb(244, 239, 239);
+      transition: 250ms;
+    }
+  
+    .contactbutton {
+      display: none;
+    }
+  
+    .otherlinks{
+      display: flex;
+      justify-content: center;
+      margin-top: 2rem;
+    }
+  
+    .brandicon{
+      display: block;
+    }
+  
+  }

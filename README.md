@@ -1,7 +1,7 @@
 # karunaadh.github.io
 ___
-# View Design
-[https://www.figma.com/proto/f27bDDgYejdsvJF1zZFpuX/Karuna-Adhikari%3A-Personal-Portfolio?type=design&node-id=116-2&t=dWNPNNLPoTGj2b76-1&scaling=scale-down&page-id=0%3A1&mode=design](https://www.figma.com/proto/f27bDDgYejdsvJF1zZFpuX/Karuna-Adhikari%3A-Personal-Portfolio?type=design&node-id=116-2&t=dWNPNNLPoTGj2b76-1&scaling=scale-down&page-id=0%3A1&mode=design)
+[Live Webpage](https://karunaadh.github.io)
+[Figma Design File](https://www.figma.com/proto/f27bDDgYejdsvJF1zZFpuX/Karuna-Adhikari%3A-Personal-Portfolio?type=design&node-id=116-2&t=dWNPNNLPoTGj2b76-1&scaling=scale-down&page-id=0%3A1&mode=design)
 ___
 # Getting Started with Create React App
 

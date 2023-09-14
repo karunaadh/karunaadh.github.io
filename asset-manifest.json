@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.711590d3.css",
+    "main.js": "/static/js/main.67571278.js",
+    "static/media/Smartbot1.png": "/static/media/Smartbot1.26ae1dcd085f106c3b9d.png",
+    "static/media/Alarmsys1.png": "/static/media/Alarmsys1.228a3533decd0164ff92.png",
+    "static/media/Smartbot2.jpeg": "/static/media/Smartbot2.b11caf04bfe70c7e2a18.jpeg",
+    "static/media/Alarmsys2.jpeg": "/static/media/Alarmsys2.6d34cd55f5674c2a7bad.jpeg",
+    "static/media/Chatbot.jpeg": "/static/media/Chatbot.8470c0d9a9e76872713c.jpeg",
+    "static/media/Portfolio2.jpeg": "/static/media/Portfolio2.66512d2435ff4bf03a5f.jpeg",
+    "static/media/Docconnect2.jpeg": "/static/media/Docconnect2.d59b6a78d94893e825c6.jpeg",
+    "static/media/Portfolio1.jpeg": "/static/media/Portfolio1.52eb0958150ed733f0af.jpeg",
+    "static/media/NGI1.jpeg": "/static/media/NGI1.3c67def13d5889cc70b1.jpeg",
+    "static/media/Docconnect1.jpeg": "/static/media/Docconnect1.55d32b9408ee44acb8c5.jpeg",
+    "static/media/NGI2.jpeg": "/static/media/NGI2.2bdf6ac4ece2cdd51a0a.jpeg",
+    "static/media/Givengo2.jpeg": "/static/media/Givengo2.7bf4e33b20c2177df7cd.jpeg",
+    "static/media/Meditation1.jpeg": "/static/media/Meditation1.ac55b92ac38146d91a66.jpeg",
+    "static/media/Meditation2.jpeg": "/static/media/Meditation2.ee49b8036ce7ade796fe.jpeg",
+    "static/media/Givengo1.jpeg": "/static/media/Givengo1.34a8ced9accc193db656.jpeg",
+    "static/media/Pong1.jpeg": "/static/media/Pong1.c7c8ba48290c9b10ccef.jpeg",
+    "static/media/Pong2.jpeg": "/static/media/Pong2.0f111e2773926795229a.jpeg",
+    "index.html": "/index.html",
+    "main.711590d3.css.map": "/static/css/main.711590d3.css.map",
+    "main.67571278.js.map": "/static/js/main.67571278.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.711590d3.css",
+    "static/js/main.67571278.js"
+  ]
+}
